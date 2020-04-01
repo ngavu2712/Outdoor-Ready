@@ -1,2 +1,1 @@
-# Outdoor-Ready
-Outdoor Ready is a one-stop shop website where all outdoor enthusiasts can look up for info about trails nearby, recipes for a hassle-free camping food, tips and tricks on packaging food for a big backpacking plan, quality gears that are highly ranked and recommended, access to current condition of the road, the trail, wildfire gauge, and access to roadside assistance in the area. The website also contain a blog section and comment section with the purpose to reinforce a healthy community where everyone can learn on each other experience.  
+# projectone
